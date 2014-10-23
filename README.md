@@ -6,6 +6,7 @@ A public Modpack for the FTB launcher- Pack code: BPrules01
 This is all open source as non of the mods included in the modpack were created by me (BeerCav) or anyone of the BPMP team. (soon to come hopefuly).
 
 If you would like to become part of the BPMP team please message me at either 
+
 http://forum.feed-the-beast.com/members/beercav
 
 or
